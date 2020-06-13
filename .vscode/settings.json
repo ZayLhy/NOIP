@@ -6,7 +6,11 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "cmath": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "regex": "cpp",
+        "bit": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
