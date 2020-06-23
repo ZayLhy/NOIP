@@ -10,7 +10,8 @@
         "*.tcc": "cpp",
         "fstream": "cpp",
         "regex": "cpp",
-        "bit": "cpp"
+        "bit": "cpp",
+        "cstdio": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
