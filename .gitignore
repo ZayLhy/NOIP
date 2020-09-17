@@ -3,3 +3,4 @@
 *.exe
 /.github
 *.o
+/pythonenv3.8
